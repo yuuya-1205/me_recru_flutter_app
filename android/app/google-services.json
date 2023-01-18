@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "494264802419",
+    "project_id": "merecruapp",
+    "storage_bucket": "merecruapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494264802419:android:12e9dd52f17a24722e1e06",
+        "android_client_info": {
+          "package_name": "com.example.me_recru_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494264802419-0p7sfpqrepgmtetl12c6h1vne6uno2nm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCWGFce22i5ulR1OVCq9Y9QdhkcVuMUl0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494264802419-0p7sfpqrepgmtetl12c6h1vne6uno2nm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
